@@ -1,4 +1,5 @@
 import React from "react";
+import About_Me from "./components/About_Me";
 import About from "./components/About"
 import Contact from "./components/Contact"
 import Navbar from "./components/Navbar"
@@ -12,9 +13,10 @@ export default function App() {
     <main className="text-gray-400 bg-gray-900 body-font">
       <Navbar />
       <About />
+      <About_Me />
       <Projects />
       <Skills />
-      <Testimonials />
+      {/* <Testimonials /> */}
       <Contact />
     </main>
   );

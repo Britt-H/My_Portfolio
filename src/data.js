@@ -1,35 +1,19 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Reservations",
+    subtitle: "React",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Reservation Application for restaurants to book, seat, & finish reservations. Practice creating an application using React, postGRES, Express, & Node.js",
     image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://restaurant-reservation-site.onrender.com/dashboard",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Recipe Tracker",
+    subtitle: "React",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Recipe Tracker to allow user to create recipes & upload an image of the recipe into a list. Practice utilizing react components and state management.",
     image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
-  },
-  {
-    title: "DevChat",
-    subtitle: "React and Firebase",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
-  },
-  {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://recipe-app-test.onrender.com/",
   },
 ];
 
@@ -55,6 +39,6 @@ export const skills = [
   "React",
   "Next.js",
   "Node",
-  "GraphQL",
-  "Material UI",
+  "postgreSQL",
+  "HTML5",
 ];

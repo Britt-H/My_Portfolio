@@ -64,6 +64,7 @@ export default function Contact() {
         <form
           netlify
           name="contact"
+          onSubmit={handleSubmit}
           className="lg:w-1/3 md:w-1/2 flex flex-col md:ml-auto w-full md:py-8 mt-8 md:mt-0"
         >
           <h2 className="text-white sm:text-4xl text-3xl mb-1 font-medium title-font">
@@ -121,12 +122,4 @@ export default function Contact() {
       </div>
     </section>
   );
-}
-
-{
-  /* <div style="text-decoration:none; overflow:hidden;max-width:100%;width:500px;height:500px;"><div id="g-mapdisplay" style="height:100%; width:100%;max-width:100%;">
-
-    <iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=Columbus,+OH,+USA&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"></iframe>
-    
-    </div><a class="my-codefor-googlemap" rel="nofollow" href="https://kbj9qpmy.com/bp" id="authorize-map-data">Broadband Providers</a><style>#g-mapdisplay img{max-width:none!important;background:none!important;font-size: inherit;font-weight:inherit;}</style></div> */
 }

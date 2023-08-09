@@ -1,17 +1,16 @@
 Welcome to my portfolio repository! This repository showcases a collection of my projects, achievements, and skills. Feel free to explore the various folders and files to learn more about my work and expertise.
 
-# Table of Contents
-
 # About Me
 I am a passionate and dedicated [Your Name], and I have a strong background in [Your Relevant Background]. With a keen interest in [Your Interests], I constantly strive to learn and create innovative solutions to real-world problems. This portfolio repository serves as a testament to my journey and growth in the field.
 
 # Projects
-Project Name 1
-Description: A brief description of the project, its purpose, and the problem it addresses.
+Reservations
+Description: Reservation application for restaurants to book, seat & finish reservations.
 
-Technologies Used: List of technologies, tools, and languages used in the project.
+Technologies Used: React, postgreSQL, Express, Node.js
 
-Project 1 Screenshot
+![image](https://github.com/Britt-H/My_Portfolio/assets/125507546/f6ed21f8-3220-46b7-93c7-0c97d1d3fa20)
+
 
 Project Name 2
 Description: Another project description highlighting its significance and impact.

@@ -4,7 +4,7 @@ export const projects = [
     subtitle: "React",
     description:
       "Reservation Application for restaurants to book, seat, & finish reservations. Practice creating an application using React, postGRES, Express, & Node.js",
-    image: "./project-1.gif",
+    image: "./public/restaurant_home_screen.PNG",
     link: "https://restaurant-reservation-site.onrender.com/dashboard",
   },
   {
@@ -12,7 +12,7 @@ export const projects = [
     subtitle: "React",
     description:
       "Recipe Tracker to allow user to create recipes & upload an image of the recipe into a list. Practice utilizing react components and state management.",
-    image: "./project-2.gif",
+    image: "./public/recipes.PNG",
     link: "https://recipe-app-test.onrender.com/",
   },
   
@@ -39,7 +39,9 @@ export const skills = [
   "JavaScript",
   "React",
   "Next.js",
-  "Node",
+  "Node.js",
   "postgreSQL",
   "HTML5",
+  "CSS",
+  "Tailwind.css"
 ];

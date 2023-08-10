@@ -13,7 +13,7 @@ Description: Reservation application for restaurants to book, seat & finish rese
 
 Technologies Used: React, postgreSQL, Express, Node.js
 
-![image](https://github.com/Britt-H/My_Portfolio/assets/125507546/f6ed21f8-3220-46b7-93c7-0c97d1d3fa20)
+![image](https://github.com/Britt-H/My_Portfolio/public/restaurant_home_screen.png)
 
 _Recipes Tracker_
 

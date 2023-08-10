@@ -15,6 +15,7 @@ export const projects = [
     image: "./project-2.gif",
     link: "https://recipe-app-test.onrender.com/",
   },
+  
 ];
 
 export const testimonials = [

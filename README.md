@@ -2,7 +2,7 @@ Welcome to my portfolio repository! This repository showcases a collection of my
 
 # **_About Me_**
 
-I am a passionate and dedicated [Your Name], and I have a strong background in [Your Relevant Background]. With a keen interest in [Your Interests], I constantly strive to learn and create innovative solutions to real-world problems. This portfolio repository serves as a testament to my journey and growth in the field.
+I am a passionate and dedicated engineer, and I have a strong background in front and back developlment. With a keen interest in optimization, I constantly strive to learn and create innovative solutions to real-world problems. This portfolio repository serves as a testament to my journey and growth in the field.
 
 
 # **_Projects_**
@@ -13,7 +13,7 @@ Description: Reservation application for restaurants to book, seat & finish rese
 
 Technologies Used: React, postgreSQL, Express, Node.js
 
-![image](./public/restaurant_home_screen.png)
+![Home Screen](./public/restaurant_home_screen.PNG "HomeScreen View")
 
 _Recipes Tracker_
 
@@ -21,7 +21,7 @@ Description: Recipe tracker to allow user to create recipes & upload an image of
 
 Technologies Used: React, JS, CSS, HTML5
 
-![image](https://github.com/Britt-H/My_Portfolio/assets/125507546/5e573f5b-c6a1-41d5-8d4b-e2a9ecb9df0e)
+![Recipe Tracker](./public/recipes.PNG "Recipes Landing Screen")
 
 
 # **_Skills & Technologies_**
@@ -37,6 +37,6 @@ Technologies Used: React, JS, CSS, HTML5
 
 # **_Contact_**
 
-I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at brittain.hoover@gmail.com. You can also connect with me on [LinkedIn](https://www.linkedin.com/in/steven-britt-hoover/) or check out my personal website [www.yourwebsite.com](https://britthoover.netlify.app/).
+I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at brittain.hoover@gmail.com. You can also connect with me on [LinkedIn](https://www.linkedin.com/in/steven-britt-hoover/) or check out my personal [website](https://britthoover.netlify.app/).
 
 Thank you for visiting my portfolio repository! I look forward to connecting with you.

@@ -22,10 +22,10 @@ export default function Navbar() {
           </a> */}
         </nav>
         <div className="flex space-x-4">
-          <a href="https://www.linkedin.com/in/steven-britt-hoover/">
+          <a href="https://www.linkedin.com/in/steven-britt-hoover/" target="_blank">
             <img alt="linkedin" src="./linkedin_logo.png" height="40" width="40" />
           </a>
-          <a href="https://github.com/Britt-H">
+          <a href="https://github.com/Britt-H" target="_blank">
             <img alt="github" src="./github-light.svg" height="40" width="40" />
           </a>
         </div>

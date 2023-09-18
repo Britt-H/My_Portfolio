@@ -42,5 +42,8 @@ export const skills = [
   "postgreSQL",
   "HTML5",
   "CSS",
-  "Tailwind.css"
+  "Tailwind.css",
+  "Mocha",
+  "Chai",
+  "Jest"
 ];

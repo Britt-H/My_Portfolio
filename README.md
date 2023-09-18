@@ -34,6 +34,9 @@ Technologies Used: React, JS, CSS, HTML5
 - HTML5
 - CSS
 - Tailwind.css
+- Jest
+- Mocha
+- Chai
 
 # **_Contact_**
 
